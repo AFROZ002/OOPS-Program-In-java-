@@ -1,0 +1,11 @@
+In Java, access modifiers define the visibility and accessibility of classes, methods, variables, and other members within a program.
+
+Public: Members declared as public are accessible from any class or package. There are no access restrictions.
+
+Private: Members declared as private are accessible only within the same class. They are not visible to other classes.
+
+Protected: Members declared as protected are accessible within the same class, subclasses, and classes in the same package.
+
+Default (Package-Private): Members with no explicit modifier (i.e., no public, private, or protected keyword) are accessible within the same package but not outside it.
+
+These access modifiers control the encapsulation level, ensuring data hiding and access control, crucial for building robust and secure Java applications
